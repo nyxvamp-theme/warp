@@ -1,0 +1,27 @@
+name: nyxvamp radiance
+accent: '#9655FF'          # deep purple accent for ui elements
+cursor: '#9655FF'         # deep purple cursor
+background: '#F7F7FF'     # off-white background
+foreground: '#1E1E2E'     # deep navy foreground
+details: lighter           # indicates a light theme
+
+terminal_colors:
+  normal:
+    black: '#F7F7FF'        # off-white background
+    red: '#E78284'          # red errors
+    green: '#A6DA95'        # green additions
+    yellow: '#E5C890'       # yellow warnings
+    blue: '#005F87'         # blue functions
+    magenta: '#F28FAD'      # pink special strings
+    cyan: '#8BD5CA'         # cyan hints
+    white: '#1E1E2E'        # deep navy foreground
+
+  bright:
+    black: '#FEF5BC'        # soft yellow selection
+    red: '#E78284'          # red errors
+    green: '#A6DA95'        # green additions
+    yellow: '#E5C890'       # yellow warnings
+    blue: '#005F87'         # blue functions
+    magenta: '#F28FAD'      # pink special strings
+    cyan: '#8BD5CA'         # cyan hints
+    white: '#F5C2E7'        # pink bold text

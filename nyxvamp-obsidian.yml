@@ -1,0 +1,27 @@
+name: nyxvamp obsidian
+accent: '#9655FF'          # deep purple accent for ui elements
+cursor: '#0E0E10'         # dark cursor
+background: '#000A0F'     # very dark background
+foreground: '#C0C0CE'     # slightly muted foreground
+details: darker            # indicates a dark theme
+
+terminal_colors:
+  normal:
+    black: '#000A0F'        # very dark background
+    red: '#D78284'          # muted red errors
+    green: '#86BA75'        # muted green additions
+    yellow: '#D5B880'       # muted yellow warnings
+    blue: '#7FAFD7'         # muted blue functions
+    magenta: '#F28FAD'      # pink special strings
+    cyan: '#7BB5A8'         # muted cyan hints
+    white: '#C0C0CE'        # slightly muted foreground
+
+  bright:
+    black: '#1E1E2E'        # deep navy background
+    red: '#D78284'          # muted red errors
+    green: '#86BA75'        # muted green additions
+    yellow: '#D5B880'       # muted yellow warnings
+    blue: '#7FAFD7'         # muted blue functions
+    magenta: '#F28FAD'      # pink special strings
+    cyan: '#7BB5A8'         # muted cyan hints
+    white: '#F5C2E7'        # pink bold text

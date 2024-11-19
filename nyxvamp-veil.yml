@@ -1,0 +1,27 @@
+name: nyxvamp veil
+accent: '#F28FAD'          # Pink accent for UI elements
+cursor: '#F5C2E7'         # Soft pink cursor
+background: '#1E1E2E'     # Dark purple background
+foreground: '#D9E0EE'     # Light lavender foreground
+details: darker            # Indicates a dark theme
+
+terminal_colors:
+  normal:
+    black: '#1E1E2E'        # Dark purple background
+    red: '#E78284'          # Soft red errors
+    green: '#A6DA95'        # Soft green additions
+    yellow: '#E5C890'       # Soft yellow warnings
+    blue: '#96CDFB'         # Blue functions
+    magenta: '#F28FAD'      # Pink special strings
+    cyan: '#8BD5CA'         # Soft cyan hints
+    white: '#D9E0EE'        # Light lavender foreground
+
+  bright:
+    black: '#494D64'        # Grayish selection
+    red: '#E78284'          # Soft red errors
+    green: '#A6DA95'        # Soft green additions
+    yellow: '#E5C890'       # Soft yellow warnings
+    blue: '#96CDFB'         # Blue functions
+    magenta: '#F28FAD'      # Pink special strings
+    cyan: '#8BD5CA'         # Soft cyan hints
+    white: '#F5C2E7'        # Pink bold text
