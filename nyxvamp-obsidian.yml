@@ -1,6 +1,6 @@
 name: nyxvamp obsidian
-accent: '#9655FF'          # deep purple accent for ui elements
-cursor: '#0E0E10'         # dark cursor
+accent: '#F28FAD'          # pink accent for ui elements
+cursor: '#F28FAD'         # pink cursor
 background: '#000A0F'     # very dark background
 foreground: '#C0C0CE'     # slightly muted foreground
 details: darker            # indicates a dark theme
@@ -9,19 +9,19 @@ terminal_colors:
   normal:
     black: '#000A0F'        # very dark background
     red: '#D78284'          # muted red errors
-    green: '#86BA75'        # muted green additions
+    green: '#8FBF8F'        # muted green strings
     yellow: '#D5B880'       # muted yellow warnings
     blue: '#7FAFD7'         # muted blue functions
-    magenta: '#F28FAD'      # pink special strings
+    magenta: '#F28FAD'      # pink constants/symbols
     cyan: '#7BB5A8'         # muted cyan hints
     white: '#C0C0CE'        # slightly muted foreground
 
   bright:
-    black: '#1E1E2E'        # deep navy background
+    black: '#2E2E30'        # dark gray selection
     red: '#D78284'          # muted red errors
-    green: '#86BA75'        # muted green additions
+    green: '#8FBF8F'        # muted green strings
     yellow: '#D5B880'       # muted yellow warnings
     blue: '#7FAFD7'         # muted blue functions
-    magenta: '#F28FAD'      # pink special strings
+    magenta: '#F5C2E7'      # pink keywords
     cyan: '#7BB5A8'         # muted cyan hints
-    white: '#F5C2E7'        # pink bold text
+    white: '#A0A0D0'        # muted lavender types

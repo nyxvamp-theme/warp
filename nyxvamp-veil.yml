@@ -8,20 +8,20 @@ details: darker            # Indicates a dark theme
 terminal_colors:
   normal:
     black: '#1E1E2E'        # Dark purple background
-    red: '#E78284'          # Soft red errors
-    green: '#A6DA95'        # Soft green additions
-    yellow: '#E5C890'       # Soft yellow warnings
+    red: '#E78284'          # Red errors
+    green: '#ABE9B3'        # Green strings
+    yellow: '#E5C890'       # Yellow warnings
     blue: '#96CDFB'         # Blue functions
-    magenta: '#F28FAD'      # Pink special strings
-    cyan: '#8BD5CA'         # Soft cyan hints
+    magenta: '#F28FAD'      # Pink constants/symbols
+    cyan: '#8BD5CA'         # Cyan hints
     white: '#D9E0EE'        # Light lavender foreground
 
   bright:
     black: '#494D64'        # Grayish selection
-    red: '#E78284'          # Soft red errors
-    green: '#A6DA95'        # Soft green additions
-    yellow: '#E5C890'       # Soft yellow warnings
+    red: '#E78284'          # Red errors
+    green: '#ABE9B3'        # Green strings
+    yellow: '#E5C890'       # Yellow warnings
     blue: '#96CDFB'         # Blue functions
-    magenta: '#F28FAD'      # Pink special strings
-    cyan: '#8BD5CA'         # Soft cyan hints
-    white: '#F5C2E7'        # Pink bold text
+    magenta: '#F5C2E7'      # Pink keywords
+    cyan: '#8BD5CA'         # Cyan hints
+    white: '#C9CBFF'        # Lavender types
